@@ -1,0 +1,21 @@
+void setup()
+{
+ size(500,500);
+background(#308FD6);
+strokeWeight(5);
+fill(#49B729);
+ellipse(250,425,50,50);
+ellipse(250,375,50,50);
+ellipse(250,325,50,50);
+ellipse(250,259,80,80);
+fill(#00A5F0);
+ellipse(229,250,10,10);//ojo1
+ellipse(269,250,10,10);//ojo2
+line(0,450,500,450);
+line(250,265,300,260);
+fill(#F00024);
+triangle(170,220,250,170,335,220);
+rect(245,275,10,5);
+fill(#642626);
+rect(0,450,600,100);
+}
